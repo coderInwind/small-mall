@@ -1,7 +1,7 @@
 <template>
     <!--<h2>首页</h2>-->
   <div id="home" class="wrapper">
-    <nav-bar class="home-nav"><slot slot="center">购物街</slot></nav-bar>
+    <nav-bar class="home-nav"><slot slot="center">美丽商城</slot></nav-bar>
 
     <tab-control
       :titles="['流行', '新款', '精选']"
